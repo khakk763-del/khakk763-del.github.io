@@ -1,0 +1,16 @@
+# OMEGA 2.0
+
+> OMEGA 2.0 is a 3-in-1 bundle of ready-built business systems: LEADS finds and follows up with customers, COMMERCE runs your online store, and MARKETING creates and schedules your content.
+
+- Product: OMEGA 2.0 (3-in-1 bundle: LEADS + COMMERCE + MARKETING)
+- Price: $999 one-time (real value $5,991; you save $4,992)
+- Guarantee: 30-day money-back guarantee
+- Payment: crypto only (USDT / USDC)
+- Buyer setup: Node.js 24+ plus the buyer's own WhatsApp Business, Google Calendar and Stripe credentials — ready with customer configuration
+- Order: WhatsApp +965 9494 0393 or khaledaomga@gmail.com
+- Owner: Khalid Al Anzi (OMEGA)
+
+## Pages
+
+- [OMEGA 2.0 — bundle landing page](https://khakk763-del.github.io/)
+- [Individual product pages](https://khakk763-del.github.io/products/super-pack.html) — the full product set (AI Lead Machine, Super Pack, content calendar, AI prompts, YouTube scripts, finance dashboard, Notion client OS, SEO kit and more) lives under /products/ on this site.
